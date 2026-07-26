@@ -1,28 +1,34 @@
-# Cisco-Packet-Tracer-Labs
-Cisco Packet Tracer networking labs documenting my journey from networking fundamentals to enterprise network design.
-# Lab 01 - Small Office Network
+# Cisco Packet Tracer Labs
 
-## Objective
+Welcome to my Cisco Packet Tracer lab portfolio.
 
-Build and configure a small office LAN using Cisco Packet Tracer.
+This repository documents my hands-on networking journey, covering networking fundamentals through practical Packet Tracer projects.
 
-## Devices
+## Labs
 
-- Cisco 1941 Router
-- 2 Cisco 2960 Switches
-- 2 Desktop PCs
-- 1 Laptop
-- 2 Network Printers
-
-## Skills Practiced
-
-- Network topology design
+### Lab 01 – Small Office Network
 - Static IPv4 addressing
-- Switch-to-switch connectivity
+- Router and switch configuration
 - ICMP connectivity testing
-- ARP Request and ARP Reply analysis
-- Packet Tracer Simulation Mode
+- ARP Request and Reply
+- Basic LAN communication
 
-## Outcome
+More labs will be added as I continue learning:
 
-All devices successfully communicated across the LAN. ARP was observed before ICMP, demonstrating how devices resolve MAC addresses before exchanging traffic.
+- Lab 02 – Routing Between Networks
+- Lab 03 – DHCP
+- Lab 04 – VLANs
+- Lab 05 – ACLs
+- Lab 06 – NAT
+- Lab 07 – Enterprise Office Network
+
+## Technologies
+
+- Cisco Packet Tracer
+- IPv4
+- Switching
+- Routing
+- ARP
+- ICMP
+
+This repository will continue to grow as I develop my networking skills.
